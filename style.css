@@ -91,9 +91,9 @@ html,body{
 #verticaltext h1{
     font-size: 65px;
     font-weight: 900;
-    /* font-family: gilroy; */
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color:#fff ;
+    color:transparent;
     letter-spacing: 8px;
     
   
